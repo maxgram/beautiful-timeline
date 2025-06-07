@@ -1,6 +1,6 @@
 # Beautiful Timeline 
 
-Proof of concept directly from AI for someone still convinced `github timelines/number of commits per day` has any corellation with actual dev skills.
+Proof of concept directly from AI for someone still convinced `github timelines/number of commits per day` has any correlation with actual dev skills.
 
 ## Usage
 ```
